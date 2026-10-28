@@ -1,5 +1,4 @@
 {
-	"dependencies": {
-		"mammoth": "^1.13.0"
-	}
+  "scripts": {"dev": "next dev", "build": "next build", "start": "next start", "lint": "next lint"},
+  "dependencies": {"@types/node": "latest", "@types/react": "latest", "@types/react-dom": "latest", "lucide-react": "latest", "mammoth": "^1.13.0", "next": "latest", "react": "latest", "react-dom": "latest", "typescript": "latest"}
 }
